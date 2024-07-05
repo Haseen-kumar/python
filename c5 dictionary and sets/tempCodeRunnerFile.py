@@ -1,0 +1,5 @@
+print(marks.items())
+# print(marks.keys())
+# print(marks.values())
+# print(marks.update({"dvds":4342,"renu":34}))
+# print(marks)

@@ -1,0 +1,4 @@
+l=[1888,255,356,6554,34,3434,34,35354,2]
+for i ,item in enumerate(l):
+    if i==2 or i==4 or i==6:
+     print(f"the item no.{i} is {item}")

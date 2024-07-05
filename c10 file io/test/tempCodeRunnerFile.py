@@ -1,0 +1,1 @@
+c=c.replace(word,"hello" *len(word))
